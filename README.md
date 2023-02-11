@@ -9,9 +9,12 @@ ANONYMOUS U7P4L
 </br>
 <p align="center">
       ⚡You can encode and decode any shell with that command Execute that command⚡
-
 </p>
-  
+
+#### Note⚠️:
+Store shell file in data/user/0/com.termux/files/home/enc-dec-shell
+Then choose option 1 for encrypt or choose option to decrypt
+
 #### INSTALL TOOL ON TERMUX
 ```python
  pkg update
