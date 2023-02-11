@@ -17,7 +17,8 @@ Then choose option 1 for encrypt or choose option to decrypt
 
 #### INSTALL TOOL ON TERMUX
 ```python
- pkg install nodejs
+
+pkg install nodejs
 
 pkg install nano
 
