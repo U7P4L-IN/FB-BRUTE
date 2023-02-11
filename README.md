@@ -17,21 +17,21 @@ Then choose option 1 for encrypt or choose option to decrypt
 
 #### INSTALL TOOL ON TERMUX
 ```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install requests
- pip install bs4
- pip install futures
- pip install mechanize
- cd $HOME 
- rm -rf Enc-Dec-Shell
- git clone --depth=1 https://github.com/ANONYMOUS-U7P4L/Enc-Dec-Shell.git
+ pkg install nodejs
 
- cd Enc-Dec-Shell
+pkg install nano
 
- bash 
+pkg install python2
+
+pkg install git
+
+npm install -g bash-obfuscate
+
+git clone --depth=1 https://github.com/ANONYMOUS-U7P4L/Enc-Dec-Shell.git 
+
+cd Enc-Dec-Shell
+
+python2 Bash.py
 ```
 
 
