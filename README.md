@@ -1,8 +1,8 @@
 <p align="center">
-____Welcome____
+____⚡Welcome⚡____
 
 
-AUTHOR:
+AUTHOR:-
 <p align="center">
 ANONYMOUS U7P4L
 
@@ -26,10 +26,10 @@ Then choose option 1 for encrypt or choose option to decrypt
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf 
- git clone --depth=1 https://github.com/ANONYMOUS-U7P4L/
+ rm -rf Enc-Dec-Shell
+ git clone --depth=1 https://github.com/ANONYMOUS-U7P4L/Enc-Dec-Shell.git
 
- cd 
+ cd Enc-Dec-Shell
 
  bash 
 ```
