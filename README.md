@@ -1,6 +1,6 @@
 <p align=center>
  
-## 🚀BRUTE: RELEASE V 1.0
+## 🚀BRUTE:V 1.0
 ## FREE BRUTE PANEL.🚀
 
 <p>
